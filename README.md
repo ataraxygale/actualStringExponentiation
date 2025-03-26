@@ -15,13 +15,13 @@
 - Prints the exponentiated string result
 
 ## 🧪 Example Output
-
-- Enter the string you would like exponentiated: 
-- hi
-- Enter the number of times you would like this exponentiated: 
-- 4
-- This is your exponentiated string:  hihihihihihihihi
-
+```
+Enter the string you would like exponentiated: 
+hi
+Enter the number of times you would like this exponentiated: 
+4
+This is your exponentiated string:  hihihihihihihihi
+```
 
 
 
