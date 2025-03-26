@@ -1,7 +1,7 @@
 # 🧮 actualStringExponentiation
 
--Python does not inherently allow the usage of actual string ezponentiation (only string multiplication).
--This program actually exponentiates strings
+- Python does not inherently allow the usage of actual string ezponentiation (only string multiplication).
+- This program actually exponentiates strings
 
 ## 📦 Notes
 - This is part of a growing set of small programs documenting my Python learning journey.
